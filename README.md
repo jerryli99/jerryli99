@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jerryo0
 - 👀 I love Computer Science. 
-- 🌱 I’m currently learning C, computer organizations, computer systems. 
+- 🌱 I’m currently learning C, computer organizations, and computer systems. 
 
 
 <!---
