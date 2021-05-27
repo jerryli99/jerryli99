@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jerryo0
+- 👋 Hi, I’m @jerryo0. The picture you see in my portfolio was drawn by me. Yeah. I am not showing off ;)
 - 👀 I love Computer Science. 
 - 🌱 I’m currently learning C, computer organizations, and computer systems. 
 
