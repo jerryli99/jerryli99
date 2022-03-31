@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jerryo0. I like painting. The profile painting you see is one of my painting collections ;)
 - 👀 I love Computer Science. 
-- 🌱 I’m currently learning C, computer organizations, and computer systems. 
+- 🌱  
 
 Website still in progress...
 Do you like Physcis?
