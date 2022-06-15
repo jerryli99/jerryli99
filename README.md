@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jerryo0. I like painting. The profile painting you see is one of my painting collections ;)
+- 👋 Hi, I’m @jerryli99. I like painting. The profile painting you see is one of my painting collections ;)
 - 👀 I love Computer Science. 
 - 🌱  
 
